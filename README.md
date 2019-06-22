@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fololosha228%2Fgo-l10n.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fololosha228%2Fgo-l10n?ref=badge_shield)
+
 About go-l10n
 =============
 
@@ -94,3 +96,7 @@ func main() {
   ...
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fololosha228%2Fgo-l10n.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fololosha228%2Fgo-l10n?ref=badge_large)
